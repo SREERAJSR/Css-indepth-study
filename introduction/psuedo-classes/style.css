@@ -1,0 +1,14 @@
+button:hover{
+color:blue;
+padding:30px;
+}
+
+input:checked{
+    width: 30px;
+    height: 30px;
+
+}
+
+a:focus{
+    color: red;
+}
