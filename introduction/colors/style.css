@@ -1,0 +1,31 @@
+p{
+    color: hsl(242, 100%, 50% );
+}
+
+.box{
+    width: 40px;
+    height: 40px;
+}
+.first.box{
+    background: hsl(0, 100%, 50% ,1)
+}
+
+.second.box{
+      background-color: hsl(0, 100%, 50% ,.75);
+    width: 40px;
+    height: 40px;
+}
+.third.box{
+      background-color: hsl(0, 100%, 50%,.50 );
+    width: 40px;
+    height: 40px;
+}
+.fourth.box{
+      background-color: hsl(0, 100%, 50% ,.25);
+    width: 40px;
+    height: 40px;
+}
+
+.main{
+    display: flex;
+}
