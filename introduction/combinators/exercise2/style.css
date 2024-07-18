@@ -1,0 +1,7 @@
+li{
+    margin-bottom: 8px;
+}
+
+.main-list ul> li{
+    border: 2px dotted;
+}
