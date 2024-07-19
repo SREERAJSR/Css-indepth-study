@@ -1,0 +1,14 @@
+.first-para {
+    color: deeppink;
+    border:1px deeppink solid
+}
+
+
+.second-para{
+    color: aqua;
+}
+
+a{
+    color: inherit;
+}
+
