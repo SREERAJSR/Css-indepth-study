@@ -1,0 +1,20 @@
+#imp{
+    color: blue;
+}
+
+p{
+font-weight: bold;
+color: red;
+}
+
+.main{
+    color: hsl(136, 35%, 34%); 
+    /* color: hsl(136, 35%, 34%); !important have higher specifity */
+}
+
+
+/* specificity priority
+
+inherited styles< tag styles < class styles < id styles < important styles
+*/
+
