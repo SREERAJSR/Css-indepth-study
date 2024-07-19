@@ -1,0 +1,16 @@
+header {
+  font-size: 2rem;
+  padding: 32px;
+  background-color: peachpuff;
+}
+main {
+  background: silver;
+  padding: 32px;
+}
+
+h1{
+    background-color: cyan;
+    padding: 32px;
+    font-size: 48px;
+    margin-top: 0;
+}
